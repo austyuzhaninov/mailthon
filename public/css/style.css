@@ -1,0 +1,21 @@
+.global {
+    min-height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #f6f6f6;
+    margin: 0px;
+}
+
+.letter {
+    padding: 20px 0 20px 0;
+}
+
+.message {
+    min-width: 735px;
+    max-width: 735px;
+    min-height: 60px;
+    max-height: 300px;
+}
